@@ -1,0 +1,6 @@
+.env
+*token*.json
+*secret*.json
+*.pem
+*.key
+.DS_Store
